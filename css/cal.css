@@ -69,7 +69,8 @@ h1, h2, h3, h4, h5, h6 {
 
 #deleteRemindersTrashIcon {
   display: none;
-  font-size: 1.5em;
+  font-size: 0.8em;
+  color: white;
 }
 
 /*div > div + div {
